@@ -1,2 +1,2 @@
-# TorsdagsOpgaveUgeNr38
- 
+Kristoffer Kreiner
+cph-kk466@cphbusiness.dk

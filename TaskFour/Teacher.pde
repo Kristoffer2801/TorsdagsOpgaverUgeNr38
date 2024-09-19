@@ -1,0 +1,21 @@
+class Teacher
+{
+ String name;
+ int age;
+ boolean isFemale;
+
+
+Teacher(String tmpName, int tmpAge, Boolean tmpIsFemale)
+{
+
+ name = tmpName;
+ age = tmpAge;
+ isFemale = tmpIsFemale;
+}
+
+//4.a
+void changeName(String newName)
+{
+ name = newName; 
+}
+}
